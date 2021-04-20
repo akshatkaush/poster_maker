@@ -14,8 +14,8 @@ http://designatak.tk/
 
 ###Input
 
-<img src="https://github.com/akshatkaush/poster_maker/blob/master/web.jpg?raw=true" width="320.0" height= "320.0">
+<img src="https://github.com/akshatkaush/poster_maker/blob/master/web.jpg?raw=true" width="500.0" height= "500.0">
 
 ###output
 
-<img src="https://github.com/akshatkaush/poster_maker/blob/master/image%20(1).png?raw=true">
+<img src="https://github.com/akshatkaush/poster_maker/blob/master/image%20(1).png?raw=true" width="500.0" height= "500.0">
